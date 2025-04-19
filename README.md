@@ -5,7 +5,7 @@ Data Analyst
 -------------------
 
 *   🌍  A Belarusian who has been living in Poland for 4 years.
-*   🖥️  See my portfolio on [Wix]((https://jrclap.wixsite.com/uladzimirhalavach))
+*   🖥️  See my portfolio on [Wix](https://jrclap.wixsite.com/uladzimirhalavach)
 
 
 🛠 Technology:
